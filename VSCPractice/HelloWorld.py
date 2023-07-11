@@ -1,4 +1,4 @@
-"""Import Modules for testing code."""
+"""Import Modules for testing codes."""
 import sys
 import requests
 
